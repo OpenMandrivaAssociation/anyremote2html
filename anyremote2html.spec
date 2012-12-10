@@ -33,3 +33,10 @@ It acts as HTTP server and translates anyRemote commands to HTML.
 %{_bindir}/*
 %{_datadir}/pixmaps/*
 
+
+
+%changelog
+* Thu Jan 19 2012 Andrey Bondrov <abondrov@mandriva.org> 1.4-1mdv2012.0
++ Revision: 762409
+- imported package anyremote2html
+
