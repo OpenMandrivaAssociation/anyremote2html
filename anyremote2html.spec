@@ -1,6 +1,6 @@
 Name:		anyremote2html
 Version:	1.4
-Release:	%mkrel 1
+Release:	2
 Summary:	Web frontend for anyRemote Wireless remote control program
 License:	GPLv2+
 Group:		System/Kernel and hardware
