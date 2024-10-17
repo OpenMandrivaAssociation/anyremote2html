@@ -4,7 +4,7 @@ Release:	2
 Summary:	Web frontend for anyRemote Wireless remote control program
 License:	GPLv2+
 Group:		System/Kernel and hardware
-URL:		http://anyremote.sourceforge.net/
+URL:		https://anyremote.sourceforge.net/
 Source0:	http://sourceforge.net/projects/anyremote/files/%{name}/%{version}/%{name}-%{version}.tar.gz
 Requires:	python
 Requires:	anyremote >= 5.4.1
