@@ -10,6 +10,11 @@ Requires:	python
 Requires:	anyremote >= 5.4.1
 BuildArch:	noarch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Web frontend for anyRemote Wireless remote control program.
 It acts as HTTP server and translates anyRemote commands to HTML.
